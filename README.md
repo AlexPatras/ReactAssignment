@@ -22,8 +22,8 @@ Give more time, there are several improvments that I would add to enhance the us
  Technologies used:
  - React and Remix
  - JavaScript
+ - Tailwind CSS
  - Figma
  - HTMLParser library
- - Tailwind CSS
  - React Icons
 
