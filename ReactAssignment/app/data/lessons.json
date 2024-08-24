@@ -1,0 +1,330 @@
+{
+  "lessons": [
+    {
+      "id": "465ad295-51be-4743-b879-96fc3ab3d388",
+      "exercises": [
+        {
+          "id": "af63d9eb-1cbf-44fa-ab37-942fae2d8eaf",
+          "course_id": "9ebcf921-5c9d-4048-8c6f-033888e5c005",
+          "next_exercise_id": "596cf202-bd6c-4623-9482-be95f76a4837",
+          "previous_exercise_id": null,
+          "is_completed": false,
+          "title": "The BADIR framework",
+          "order": 0,
+          "url": "https://player.vimeo.com/video/823111497?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479",
+          "lesson": "465ad295-51be-4743-b879-96fc3ab3d388",
+          "resourcetype": "VideoExercise"
+        },
+        {
+          "id": "596cf202-bd6c-4623-9482-be95f76a4837",
+          "course_id": "9ebcf921-5c9d-4048-8c6f-033888e5c005",
+          "next_exercise_id": "c5783abf-f5fd-4367-b7ca-89801dca5ff5",
+          "previous_exercise_id": "af63d9eb-1cbf-44fa-ab37-942fae2d8eaf",
+          "is_completed": false,
+          "answers": [
+            {
+              "id": "7dc54c0b-7be9-451e-b3e5-5ea944179904",
+              "answer": "Business question, Analysis plan, Data collection, Insights, Recommendations",
+              "exercise": "596cf202-bd6c-4623-9482-be95f76a4837",
+              "resourcetype": "MultipleChoiceExerciseAnswerText"
+            },
+            {
+              "id": "e15a2a78-0d7d-4a51-b714-e092aa4fa251",
+              "answer": "Business problem, Analysis, Data collection, Ingestion, Recommendations",
+              "exercise": "596cf202-bd6c-4623-9482-be95f76a4837",
+              "resourcetype": "MultipleChoiceExerciseAnswerText"
+            },
+            {
+              "id": "2947a423-0b24-4ea1-96f9-6427fb661902",
+              "answer": "Business data, Analysis insights, Review plan",
+              "exercise": "596cf202-bd6c-4623-9482-be95f76a4837",
+              "resourcetype": "MultipleChoiceExerciseAnswerText"
+            },
+            {
+              "id": "196147aa-4455-4863-9f58-17b113971bda",
+              "answer": "Business question, Data integration, Recommendations",
+              "exercise": "596cf202-bd6c-4623-9482-be95f76a4837",
+              "resourcetype": "MultipleChoiceExerciseAnswerText"
+            }
+          ],
+          "title": "BADIR Framework Basics",
+          "order": 1,
+          "description": "<p><span>What does BADIR stand for?</span></p></span></p>\r\n\r\n<p><img src=\"https://media-files20240727134039506700000001.s3.amazonaws.com/2024/08/15/image.png\" style=\"height:402px; width:350px\" /></p>",
+          "hint": "<p><span>There are 5 components and the first is the business question</span></p>",
+          "lesson": "465ad295-51be-4743-b879-96fc3ab3d388",
+          "resourcetype": "MultipleChoiceExercise"
+        },
+        {
+          "id": "c5783abf-f5fd-4367-b7ca-89801dca5ff5",
+          "course_id": "9ebcf921-5c9d-4048-8c6f-033888e5c005",
+          "next_exercise_id": "91388a61-6baf-413e-a9fd-bd18c6e90ef6",
+          "previous_exercise_id": "596cf202-bd6c-4623-9482-be95f76a4837",
+          "is_completed": false,
+          "answers": [
+            {
+              "id": "d26f0c53-a180-423c-9db2-1293ab6497cf",
+              "answer": "To gather as much data for analysis as possible",
+              "exercise": "c5783abf-f5fd-4367-b7ca-89801dca5ff5",
+              "resourcetype": "MultipleChoiceExerciseAnswerText"
+            },
+            {
+              "id": "6e375d51-e673-4e42-bbd6-9871a35157ac",
+              "answer": "To ensure the analysis is focused and aligned with business objectives",
+              "exercise": "c5783abf-f5fd-4367-b7ca-89801dca5ff5",
+              "resourcetype": "MultipleChoiceExerciseAnswerText"
+            },
+            {
+              "id": "fee6f1f3-b20b-4213-bfc2-140fd07344f1",
+              "answer": "To ensure compliance with regulations",
+              "exercise": "c5783abf-f5fd-4367-b7ca-89801dca5ff5",
+              "resourcetype": "MultipleChoiceExerciseAnswerText"
+            },
+            {
+              "id": "c3271bb6-74db-4078-a516-0fb9426db1d0",
+              "answer": "To speed up analysis",
+              "exercise": "c5783abf-f5fd-4367-b7ca-89801dca5ff5",
+              "resourcetype": "MultipleChoiceExerciseAnswerText"
+            }
+          ],
+
+          "title": "The importance of Business Questions",
+          "order": 2,
+          "description": "<p><span>Why is it important to start with a clear business question in the BADIR framework?</span></p>\r\n\r\n<p></p>",
+          "hint": "<p><span>We want to deliver impactful recommendations to the business goals; thus, we need to understand the deeper questions to align.</span></p>",
+          "lesson": "465ad295-51be-4743-b879-96fc3ab3d388",
+          "resourcetype": "MultipleChoiceExercise"
+        },
+        {
+          "id": "91388a61-6baf-413e-a9fd-bd18c6e90ef6",
+          "course_id": "9ebcf921-5c9d-4048-8c6f-033888e5c005",
+          "next_exercise_id": "40489080-5bdc-497b-8068-1974db3405ec",
+          "previous_exercise_id": "c5783abf-f5fd-4367-b7ca-89801dca5ff5",
+          "is_completed": false,
+          "answers": [
+            {
+              "id": "e5f53189-391b-45ae-bd12-b56e11571d37",
+              "answer": "By conducting a broad exploratory analysis of all review data without a specific focus",
+              "exercise": "91388a61-6baf-413e-a9fd-bd18c6e90ef6",
+              "resourcetype": "MultipleChoiceExerciseAnswerText"
+            },
+            {
+              "id": "93e4d586-428a-4cec-b96d-9bad800354b6",
+              "answer": "By only analyzing data from the final stage of the process",
+              "exercise": "91388a61-6baf-413e-a9fd-bd18c6e90ef6",
+              "resourcetype": "MultipleChoiceExerciseAnswerText"
+            },
+            {
+              "id": "25468a32-5e65-4fec-bc40-20debf32a145",
+              "answer": "By using only historical data without considering recent changes in the process",
+              "exercise": "91388a61-6baf-413e-a9fd-bd18c6e90ef6",
+              "resourcetype": "MultipleChoiceExerciseAnswerText"
+            },
+            {
+              "id": "e71b2ad6-da93-4b2c-ad70-cea2311370ae",
+              "answer": "By asking questions to determine the stages in the process which leads to developing an analysis plan, then collecting data on each stage, followed by targeted analysis to identify error patterns.",
+              "exercise": "91388a61-6baf-413e-a9fd-bd18c6e90ef6",
+              "resourcetype": "MultipleChoiceExerciseAnswerText"
+            }
+          ],
+          "title": "Applying BADIR",
+          "order": 3,
+          "description": "<p><span>How can the BADIR framework be applied to identify the stage at which errors in an internal process occur at ING, and what steps should be included in the analysis plan?</span></p>",
+          "hint": "<p><span>Consider the need for specific questions, data collection, and focused analysis methods.</span></p>",
+          "lesson": "465ad295-51be-4743-b879-96fc3ab3d388",
+          "resourcetype": "MultipleChoiceExercise"
+        }
+      ],
+      "title": "The BADIR Framework",
+      "order": 0,
+      "chapter": "7a466ad5-c7b0-4bf3-9dc2-79fc61851607"
+    },
+    {
+      "id": "a12f495d-345b-4873-90c2-d5e4f8e3d75c",
+      "exercises": [
+        {
+          "id": "b3e6c515-bd5d-42f4-a7c2-e7b17fb9277b",
+          "course_id": "1a2b3c4d-5678-90ab-cdef-112233445566",
+          "next_exercise_id": "de6bc21d-746b-4c5f-b3f6-f23922a2d197",
+          "previous_exercise_id": null,
+          "is_completed": false,
+          "title": "Introduction to Data Science",
+          "order": 0,
+          "url": "https://player.vimeo.com/video/823111497?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479",
+          "lesson": "a12f495d-345b-4873-90c2-d5e4f8e3d75c",
+          "resourcetype": "VideoExercise"
+        },
+        {
+          "id": "de6bc21d-746b-4c5f-b3f6-f23922a2d197",
+          "course_id": "1a2b3c4d-5678-90ab-cdef-112233445566",
+          "next_exercise_id": "da2e519c-7326-4f8f-8f34-cb3dd2e0f108",
+          "previous_exercise_id": "b3e6c515-bd5d-42f4-a7c2-e7b17fb9277b",
+          "is_completed": false,
+          "answers": [
+            {
+              "id": "c9e5f1a5-8f2f-4d91-82e5-8f9d9175e1d5",
+              "answer": "Collect, Analyze, Visualize, Interpret",
+              "exercise": "de6bc21d-746b-4c5f-b3f6-f23922a2d197",
+              "resourcetype": "MultipleChoiceExerciseAnswerText"
+            },
+            {
+              "id": "f4e5f2a5-8f3f-4d91-82f5-8f8d9175e2d5",
+              "answer": "Gather, Process, Predict, Apply",
+              "exercise": "de6bc21d-746b-4c5f-b3f6-f23922a2d197",
+              "resourcetype": "MultipleChoiceExerciseAnswerText"
+            }
+          ],
+          "title": "Key Data Science Processes",
+          "order": 1,
+          "description": "<p><span>Which of the following are key processes in data science?</span></p>",
+          "hint": "<p><span>Consider the typical workflow of a data scientist.</span></p>",
+          "lesson": "a12f495d-345b-4873-90c2-d5e4f8e3d75c",
+          "resourcetype": "MultipleChoiceExercise"
+        }
+      ],
+      "title": "Introduction to Data Science",
+      "order": 1,
+      "chapter": "8b5f789c-2d5c-46a6-9f67-9b8c657a17b7"
+    },
+    {
+      "id": "b23f605d-456c-4974-a7c2-e8e5f7f8f3d6",
+      "exercises": [
+        {
+          "id": "a5e7c616-de5e-4f5f-b3f7-c219d3a5d2f9",
+          "course_id": "1b2c3d4e-6789-0abc-defg-112233445577",
+          "next_exercise_id": "bc6d6d3f-8f2f-4d61-9f67-cb3dd5e0f507",
+          "previous_exercise_id": null,
+          "is_completed": false,
+          "title": "Machine Learning Overview",
+          "order": 0,
+          "url": "https://player.vimeo.com/video/823111497?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479",
+          "lesson": "b23f605d-456c-4974-a7c2-e8e5f7f8f3d6",
+          "resourcetype": "VideoExercise"
+        },
+        {
+          "id": "bc6d6d3f-8f2f-4d61-9f67-cb3dd5e0f507",
+          "course_id": "1b2c3d4e-6789-0abc-defg-112233445577",
+          "next_exercise_id": "ce6f8d7e-9f3f-4f7f-9f8f-df3f123f2e07",
+          "previous_exercise_id": "a5e7c616-de5e-4f5f-b3f7-c219d3a5d2f9",
+          "is_completed": false,
+          "answers": [
+            {
+              "id": "d9f6f1c7-8f3f-4d91-9f5e-8f9d9175e2e5",
+              "answer": "Supervised, Unsupervised, Reinforcement",
+              "exercise": "bc6d6d3f-8f2f-4d61-9f67-cb3dd5e0f507",
+              "resourcetype": "MultipleChoiceExerciseAnswerText"
+            },
+            {
+              "id": "f4f5f6a8-9f3f-4d7f-9f9f-df4f617f2e09",
+              "answer": "Classified, Unclassified, Semi-supervised",
+              "exercise": "bc6d6d3f-8f2f-4d61-9f67-cb3dd5e0f507",
+              "resourcetype": "MultipleChoiceExerciseAnswerText"
+            }
+          ],
+          "title": "Types of Machine Learning",
+          "order": 1,
+          "description": "<p><span>What are the main types of machine learning algorithms?</span></p>",
+          "hint": "<p><span>Consider the ways in which data is used in machine learning models.</span></p>",
+          "lesson": "b23f605d-456c-4974-a7c2-e8e5f7f8f3d6",
+          "resourcetype": "MultipleChoiceExercise"
+        }
+      ],
+      "title": "Machine Learning Basics",
+      "order": 2,
+      "chapter": "8b5f789c-2d5c-46a6-9f67-9b8c657a17b7"
+    },
+    {
+      "id": "c34f706d-567d-4075-b7d2-f8e6f8f4f5e6",
+      "exercises": [
+        {
+          "id": "d5f8d717-ef6f-4f7f-b4f8-f327d3f5d4fa",
+          "course_id": "2b3c4d5e-7890-1abc-defg-223344556688",
+          "next_exercise_id": "de8f7e7d-9f7f-4f8f-b9f8-f429f3a7f509",
+          "previous_exercise_id": null,
+          "is_completed": false,
+          "title": "Data Visualization Techniques",
+          "order": 0,
+          "url": "https://player.vimeo.com/video/823111497?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479",
+          "lesson": "c34f706d-567d-4075-b7d2-f8e6f8f4f5e6",
+          "resourcetype": "VideoExercise"
+        },
+        {
+          "id": "de8f7e7d-9f7f-4f8f-b9f8-f429f3a7f509",
+          "course_id": "2b3c4d5e-7890-1abc-defg-223344556688",
+          "next_exercise_id": "ef8f9e8d-7f9f-4f8f-b9f9-f531f3b8f60a",
+          "previous_exercise_id": "d5f8d717-ef6f-4f7f-b4f8-f327d3f5d4fa",
+          "is_completed": false,
+          "answers": [
+            {
+              "id": "e8f6f2b8-9f8f-4d91-8f5e-9f7d9275f3f6",
+              "answer": "Bar, Line, Pie, Scatter",
+              "exercise": "de8f7e7d-9f7f-4f8f-b9f8-f429f3a7f509",
+              "resourcetype": "MultipleChoiceExerciseAnswerText"
+            },
+            {
+              "id": "f5f6f3b9-9f7f-4f8f-b9f9-f63f718f3f07",
+              "answer": "Tree, Network, Box, Histogram",
+              "exercise": "de8f7e7d-9f7f-4f8f-b9f8-f429f3a7f509",
+              "resourcetype": "MultipleChoiceExerciseAnswerText"
+            }
+          ],
+          "title": "Types of Data Visualization",
+          "order": 1,
+          "description": "<p><span>Which of the following are common types of data visualization techniques?</span></p>",
+          "hint": "<p><span>Consider the graphical representations of data.</span></p>",
+          "lesson": "c34f706d-567d-4075-b7d2-f8e6f8f4f5e6",
+          "resourcetype": "MultipleChoiceExercise"
+        }
+      ],
+      "title": "Data Visualization",
+      "order": 3,
+      "chapter": "9c5f890c-3e6e-57a6-9f68-0b9c768c18c8"
+    },
+    {
+      "id": "e56f908f-789f-5287-d8f2-h9f8h0h6h7h8",
+      "exercises": [
+        {
+          "id": "h9f8h939-9h0f-6h8h-d1h1-i96h930i7h9i",
+          "course_id": "4d5e6f7g-9012-3bcd-defg-445566778800",
+          "next_exercise_id": "j9g9h9a1-0h0g-6h9h-e1h1-j07h841j8i9j",
+          "previous_exercise_id": null,
+          "is_completed": false,
+          "title": "Introduction to Cloud Computing",
+          "order": 0,
+          "url": "https://player.vimeo.com/video/823111497?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479",
+          "lesson": "e56f908f-789f-5287-d8f2-h9f8h0h6h7h8",
+          "resourcetype": "VideoExercise"
+        },
+        {
+          "id": "j9g9h9a1-0h0g-6h9h-e1h1-j07h841j8i9j",
+          "course_id": "4d5e6f7g-9012-3bcd-defg-445566778800",
+          "next_exercise_id": "k9h9i9b2-1h1g-7h9h-f1i1-k18h952k9j0k",
+          "previous_exercise_id": "h9f8h939-9h0f-6h8h-d1h1-i96h930i7h9i",
+          "is_completed": false,
+          "answers": [
+            {
+              "id": "i9h7h3c1-1i0g-6h91-a0i0-j18i940i4h8i",
+              "answer": "Infrastructure as a Service, Platform as a Service, Software as a Service",
+              "exercise": "j9g9h9a1-0h0g-6h9h-e1h1-j07h841j8i9j",
+              "resourcetype": "MultipleChoiceExerciseAnswerText"
+            },
+            {
+              "id": "j7h8h4d2-2j1g-7h92-b1j1-k29j051k5i09",
+              "answer": "Compute as a Service, Network as a Service, Storage as a Service",
+              "exercise": "j9g9h9a1-0h0g-6h9h-e1h1-j07h841j8i9j",
+              "resourcetype": "MultipleChoiceExerciseAnswerText"
+            }
+          ],
+          "title": "Cloud Service Models",
+          "order": 1,
+          "description": "<p><span>What are the three main service models of cloud computing?</span></p>",
+          "hint": "<p><span>Consider the different layers of services provided by cloud vendors.</span></p>",
+          "lesson": "e56f908f-789f-5287-d8f2-h9f8h0h6h7h8",
+          "resourcetype": "MultipleChoiceExercise"
+        }
+      ],
+      "title": "Cloud Computing Basics",
+      "order": 5,
+      "chapter": "be8f9c0d-5f8f-78a8-9f89-1d9e980d30e0"
+    }
+  ]
+}
